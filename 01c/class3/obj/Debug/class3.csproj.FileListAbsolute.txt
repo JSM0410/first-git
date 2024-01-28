@@ -1,9 +1,0 @@
-C:\Users\USER\Desktop\Windows Programing\01c\class3\bin\Debug\class3.exe.config
-C:\Users\USER\Desktop\Windows Programing\01c\class3\bin\Debug\class3.exe
-C:\Users\USER\Desktop\Windows Programing\01c\class3\bin\Debug\class3.pdb
-C:\Users\USER\Desktop\Windows Programing\01c\class3\obj\Debug\class3.InputForm.resources
-C:\Users\USER\Desktop\Windows Programing\01c\class3\obj\Debug\class3.Properties.Resources.resources
-C:\Users\USER\Desktop\Windows Programing\01c\class3\obj\Debug\class3.csproj.GenerateResource.cache
-C:\Users\USER\Desktop\Windows Programing\01c\class3\obj\Debug\class3.csproj.CoreCompileInputs.cache
-C:\Users\USER\Desktop\Windows Programing\01c\class3\obj\Debug\class3.exe
-C:\Users\USER\Desktop\Windows Programing\01c\class3\obj\Debug\class3.pdb
